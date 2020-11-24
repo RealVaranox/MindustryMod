@@ -1,2 +1,2 @@
-# mindustrymod
+# MindustryMod
 balls itchin
