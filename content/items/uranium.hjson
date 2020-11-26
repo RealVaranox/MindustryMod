@@ -1,0 +1,5 @@
+type: material
+name: Uranium
+description: A hard to mine material made from unrefined uranium, used for high end power and explosive devices.
+cost: 2.5
+color: b9ffb5
