@@ -10,7 +10,7 @@ consumes: {
     power: 240
     items:{
         items: [
-            thorium/10
+            thorium/6
             plastanium/2    
         ]
     }
