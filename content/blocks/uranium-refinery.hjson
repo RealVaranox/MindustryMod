@@ -10,17 +10,17 @@ consumes: {
     power: 200
     items:{
         items: [
-            Unrefined Uranium/2
+            unrefined-uranium/2
         ]
     }
 }
 
 requirements: [
-    lead: 100
-    thorium: 65
-    plastanium: 16
-    silicon: 60
-    graphite: 35
+    lead/100
+    thorium/65
+    plastanium/16
+    silicon/60
+    graphite/35
 ]
 category: crafting
-outputItem: Uranium/1
+outputItem: uranium/1
