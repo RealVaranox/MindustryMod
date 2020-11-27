@@ -1,6 +1,6 @@
 name: "varas-mod"
 displayName: "[purple]varas [blue]mod" //Name in the mods menu.
 author: "vara / vara#7984" //Who made the mod.
-description: "A fairly basic mod that adds a few [yellow]ores, [red]turrets, and other [green]defenses."
+description: "A fairly basic mod that adds a few [yellow]ores, [red]turrets[], and other [green]defenses."
 version: "1.0"
 minGameVersion: "103"
