@@ -1,0 +1,26 @@
+type: GenericCrafter
+name: Unrefined Uranium Fabricator
+description: Uses a combination of Thorium and Plastanium to create unrefined uranium.
+size: 2
+hasPower: true
+hasItems: true
+itemCapacity: 384
+craftTime: 50
+consumes: {
+    power: 240
+    items:{
+        items: [
+            thorium/10
+            plastanium/2    
+        ]
+    }
+}
+
+requirements: [
+    lead: 80
+    thorium: 60
+    plastanium: 12
+    silicon: 40
+    graphite: 25
+]
+category: crafting
