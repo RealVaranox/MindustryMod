@@ -5,7 +5,7 @@ size: 2
 hasPower: true
 hasItems: true
 itemCapacity: 384
-craftTime: 50
+craftTime: 10
 consumes: {
     power: 240
     items:{
