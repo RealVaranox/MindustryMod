@@ -1,0 +1,22 @@
+type: SingleTypeGenerator
+name: Uranium Reactor
+description: Uses Uranium and Graphite to generate power.
+size: 3
+hasPower: true
+hasItems: true
+itemDuration: 45
+powerProduction: 40
+consumes: {
+    items: {
+        items: [
+            uranium/2
+            graphite/8
+        ]
+    }
+}
+requirements: [
+    uranium/20
+    graphite/100
+    plastanium/50
+    thorium/100
+]
