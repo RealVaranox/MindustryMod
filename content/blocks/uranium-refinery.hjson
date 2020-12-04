@@ -7,7 +7,7 @@ hasItems: true
 itemCapacity: 32
 craftTime: 10
 consumes: {
-    power: 200
+    power: 14
     items:{
         items: [
             unrefined-uranium/2

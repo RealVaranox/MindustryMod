@@ -7,7 +7,7 @@ hasItems: true
 itemCapacity: 384
 craftTime: 10
 consumes: {
-    power: 240
+    power: 20
     items:{
         items: [
             thorium/4
