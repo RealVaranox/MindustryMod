@@ -8,7 +8,7 @@ hasItems: true
 itemDuration: 45
 powerProduction: 40
 consumes: {
-    power: 2
+    power: 6
     items: {
         items: [
             uranium/6
