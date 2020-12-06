@@ -1,5 +1,5 @@
 type: material
 name: Uranium
-description: A rare material made from unrefined uranium, used for high end power and explosive devices.
+description: A rare material made from unrefined uranium, used for mid game power and explosive devices, accepted by the core.
 cost: 2.5
 color: b9ffb5

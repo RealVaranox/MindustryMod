@@ -1,13 +1,14 @@
 type: GenericCrafter
 name: Uranium Refinery
-description: Takes unrefined uranium and refines it to make uranium which can be put into the core.
+description: Takes unrefined uranium and refines it to make uranium which can be put into the core, has incredibly high capacity.
 size: 2
+health: 380
 hasPower: true
 hasItems: true
-itemCapacity: 32
+itemCapacity: 128
 craftTime: 10
 consumes: {
-    power: 3
+    power: 1
     items:{
         items: [
             unrefined-uranium/2

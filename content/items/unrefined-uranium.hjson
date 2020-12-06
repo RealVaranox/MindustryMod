@@ -1,5 +1,5 @@
 type: resource
 name: Unrefined Uranium
-description: Made from thorium and plastanium, can be refined to make uranium.
+description: Made from thorium and plastanium, can be refined to make uranium, not accepted by the core.
 cost: 2.5
 color: 83d177
